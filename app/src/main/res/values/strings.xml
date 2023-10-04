@@ -2,4 +2,9 @@
     <string name="app_name">pertemua2kelasC</string>
     <string name="nama">CALVINNHS</string>
     <string name="nomor">081215932697</string>
+    <string name="loginForm">Login Form</string>
+    <string name="tNama">User name</string>
+    <string name="tPhone">No Hp</string>
+    <string name="Alamat">Alamat</string>
+    <string name="tLogo"> Icon Logo</string>
 </resources>

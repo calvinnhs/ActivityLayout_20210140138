@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Pertemua2kelasC"
         tools:targetApi="31">
         <activity
+            android:name=".TableLayout"
+            android:exported="false" />
+        <activity
+            android:name=".LinearLayout"
+            android:exported="false" />
+        <activity
             android:name=".FrameLayout"
             android:exported="false" />
         <activity
